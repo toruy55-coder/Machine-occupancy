@@ -2,4 +2,6 @@
 稼働率を示すアプリ
 
 
-Machine-occupancy.html
+
+
+<p>Check out <a href="./Machine-occupancy.html">稼働率を示すアプリ</a>.</p>
